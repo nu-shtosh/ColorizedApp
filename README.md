@@ -3,6 +3,7 @@ ColorizedApp
 
 ### Description:
 Change view color
+
 Work with sliders and stacks
 
 ### Stack:
